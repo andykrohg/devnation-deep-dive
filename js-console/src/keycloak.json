@@ -1,5 +1,5 @@
 {
   "realm" : "demo",
-  "auth-server-url" : "http://localhost:8080/auth",
+  "auth-server-url" : "https://sso-irs-sso.apps.akrohg-openshift.redhatgov.io/auth",
   "resource" : "js-console"
 }
